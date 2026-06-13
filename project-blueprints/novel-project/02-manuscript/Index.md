@@ -1,15 +1,11 @@
-# Manuscript Index
-
-Этот файл можно использовать как индекс рукописи или как точку входа для Longform.
-
-> Если используешь Longform, настрой проект через интерфейс плагина, чтобы он сам создал нужные служебные данные.
-
-## Сцены
-
-- [[scenes/001-opening]]
-
-## Главы
-
-### Глава 1
-
-- `scenes/001-opening.md`
+---
+longform:
+  format: scenes
+  title: Novel Manuscript
+  workflow: Default Workflow
+  sceneFolder: scenes
+  scenes:
+    - 001-opening
+    - opening
+  ignoredFiles: []
+---
