@@ -1,0 +1,29 @@
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*.bak
+
+# Obsidian local state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/obsidian-git/data.json
+.trash/
+
+# Exports and generated files
+*.docx
+*.pdf
+*.epub
+*.mobi
+*.html
+
+# Python/tooling if scripts are added later
+__pycache__/
+.venv/
+.env
+
+# Large local-only materials
+_local/
+_private/

@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*.bak
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+
+04-output/*.docx
+04-output/*.pdf
+04-output/*.epub
